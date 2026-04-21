@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":631.6363636363636,"scrollY":433.6363636363636},
-{"id":2,"expanded":true,"name":"Museum Map","order":2,"parentId":1,"scrollX":631.6363636363636,"scrollY":433.6363636363636},
-{"id":3,"expanded":false,"name":"Jail","order":3,"parentId":1,"scrollX":0,"scrollY":0}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1186,"scrollY":647},
+{"id":2,"expanded":true,"name":"Museum Map","order":2,"parentId":1,"scrollX":1186,"scrollY":647},
+{"id":3,"expanded":false,"name":"Jail","order":3,"parentId":1,"scrollX":1186,"scrollY":647}
 ]
