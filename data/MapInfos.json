@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Mueseum Exterior","order":1,"parentId":0,"scrollX":1389.6,"scrollY":954},
-{"id":2,"expanded":true,"name":"Museum Map","order":2,"parentId":1,"scrollX":1389.6,"scrollY":954},
+{"id":1,"expanded":true,"name":"Mueseum Exterior","order":1,"parentId":0,"scrollX":1186,"scrollY":647},
+{"id":2,"expanded":true,"name":"Museum Map","order":2,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"Jail","order":8,"parentId":1,"scrollX":1389.6,"scrollY":954},
 {"id":4,"expanded":false,"name":"School Exterior","order":9,"parentId":0,"scrollX":1370.3999999999999,"scrollY":1230},
-{"id":5,"expanded":true,"name":"Museum Exhibit 1","order":3,"parentId":2,"scrollX":1389.6,"scrollY":954},
+{"id":5,"expanded":true,"name":"Museum Exhibit 1","order":3,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":true,"name":"Museum Exhibit 2","order":4,"parentId":2,"scrollX":856.5,"scrollY":596.25},
-{"id":7,"expanded":true,"name":"Museum Exhibit 3","order":5,"parentId":2,"scrollX":623,"scrollY":438.5},
+{"id":7,"expanded":true,"name":"Museum Exhibit 3","order":5,"parentId":2,"scrollX":1186,"scrollY":647},
 {"id":8,"expanded":false,"name":"Museum Exhibit 4","order":7,"parentId":2,"scrollX":629,"scrollY":810.5},
 {"id":9,"expanded":false,"name":"MAP009","order":6,"parentId":7,"scrollX":579,"scrollY":397.5}
 ]
